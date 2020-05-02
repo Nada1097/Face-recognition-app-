@@ -1,0 +1,4 @@
+The executable for running the app is in the following directory: "The application\Face_detection_app\for_testing"
+
+
+The test images should be chosen from the folder named "Database" located in the following directory: "\The application\Face_detection_app\for_testing"
